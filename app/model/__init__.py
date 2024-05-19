@@ -1,0 +1,1 @@
+from app.model.quesAns import nshot_question
